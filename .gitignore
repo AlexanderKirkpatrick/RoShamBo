@@ -1,3 +1,2 @@
 obj/
-bin\Debug\net5.0*
-prog.cs
+bin/
